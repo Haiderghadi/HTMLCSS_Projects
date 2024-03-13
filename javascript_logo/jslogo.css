@@ -1,0 +1,13 @@
+.contain{
+  background-color: yellow;
+  width: 300px;
+  height: 270px;
+  margin: auto;
+}
+h1{
+  text-align: end;
+  padding-top: 80px;
+  padding-right: 10px;
+  font-size: 180px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
